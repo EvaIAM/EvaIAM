@@ -8,7 +8,7 @@
    * <b>Creating User's in Entra ID</b> - [Executed user provisioning and identity management tasks inside our Microsoft Entra ID 
 environment.](https://github.com/EvaIAM/user-accounts/blob/main/README.md) 
 
-   * <b>Cloud Provisioning - P2 Licensing</b>   - [Simulated cloud-based user provisioning by assigning licenses to users within Entra ID.]() 
+   * <b>Cloud Provisioning - P2 Licensing</b>   - [Simulated cloud-based user provisioning by assigning licenses to users within Entra ID.](https://github.com/EvaIAM/p2-licensing/blob/main/README.md) 
 
    * <b>Role Assignments</b>     - [Assigned directory roles to enforce Role-Based Access Control (RBAC) within Entra ID and 
 Least Privilege.]() 
