@@ -6,7 +6,7 @@
 * <b>Microsoft Azure Entra ID</b> 
 
    * <b>Creating User's in Entra ID</b> - [Executed user provisioning and identity management tasks inside our Microsoft Entra ID 
-environment.]() 
+environment.](https://github.com/EvaIAM/user-accounts/blob/main/README.md) 
 
    * <b>Cloud Provisioning - P2 Licensing</b>   - [Simulated cloud-based user provisioning by assigning licenses to users within Entra ID.]() 
 
