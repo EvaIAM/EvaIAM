@@ -14,7 +14,7 @@ environment.](https://github.com/EvaIAM/user-accounts/blob/main/README.md)
 Least Privilege.](https://github.com/EvaIAM/role-assignments/blob/main/README.md) 
 
    * <b>Group Assignments</b>    - [Configured security groups and assigned groups to users to enforce access within Entra 
-ID.]() 
+ID.](https://github.com/EvaIAM/group-assignments/blob/main/README.md) 
 
    * <b>Identity Lifecycle</b>     - [Executed full identity lifecycle actions including onboarding, access modifications, account 
 disabling, and secure deprovisioning.]() 
