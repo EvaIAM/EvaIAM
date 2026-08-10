@@ -23,6 +23,6 @@ disabling, and secure deprovisioning.](https://github.com/EvaIAM/identity-lifecy
 and security tracking within Entra ID.](https://github.com/EvaIAM/audit-logs/blob/main/README.md)
 
    * <b>Sign-In Logs</b>     - [Reviewed and interpreted identity activity by way of sign-in logs to understand access 
-visibility and security tracking within Entra ID.]() 
+visibility and security tracking within Entra ID.](https://github.com/EvaIAM/sign-in-logs/blob/main/README.md) 
 
    * <b>Authentication</b>      - [Demonstrated authentication methods assigned to user identities such as MFA.]()
