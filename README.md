@@ -25,4 +25,4 @@ and security tracking within Entra ID.](https://github.com/EvaIAM/audit-logs/blo
    * <b>Sign-In Logs</b>     - [Reviewed and interpreted identity activity by way of sign-in logs to understand access 
 visibility and security tracking within Entra ID.](https://github.com/EvaIAM/sign-in-logs/blob/main/README.md) 
 
-   * <b>Authentication</b>      - [Demonstrated authentication methods assigned to user identities such as MFA.]()
+   * <b>Authentication</b>      - [Demonstrated authentication methods assigned to user identities such as MFA.](https://github.com/EvaIAM/authentication/blob/main/README.md)
