@@ -20,7 +20,7 @@ ID.](https://github.com/EvaIAM/group-assignments/blob/main/README.md)
 disabling, and secure deprovisioning.](https://github.com/EvaIAM/identity-lifecycle/blob/main/README.md) 
 
    * <b>Audit Logs</b>     - [Reviewed and interpreted identity activity by way of audit logs to understand access visibility 
-and security tracking within Entra ID.]()
+and security tracking within Entra ID.](https://github.com/EvaIAM/audit-logs)
 
    * <b>Sign-In Logs</b>     - [Reviewed and interpreted identity activity by way of sign-in logs to understand access 
 visibility and security tracking within Entra ID.]() 
