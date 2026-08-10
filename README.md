@@ -17,7 +17,7 @@ Least Privilege.](https://github.com/EvaIAM/role-assignments/blob/main/README.md
 ID.](https://github.com/EvaIAM/group-assignments/blob/main/README.md) 
 
    * <b>Identity Lifecycle</b>     - [Executed full identity lifecycle actions including onboarding, access modifications, account 
-disabling, and secure deprovisioning.]() 
+disabling, and secure deprovisioning.](https://github.com/EvaIAM/identity-lifecycle/blob/main/README.md) 
 
    * <b>Audit Logs</b>     - [Reviewed and interpreted identity activity by way of audit logs to understand access visibility 
 and security tracking within Entra ID.]()
